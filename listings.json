@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "address": "170 East 87th Street",
+    "apt": "12B",
+    "lat": 40.7793,
+    "lng": -73.9555,
+    "rent": 15500,
+    "beds": 3,
+    "baths": 2.5,
+    "sqft": 1850,
+    "dom": 8,
+    "listed": "2026-03-07",
+    "doorman": true,
+    "petPolicy": "Dogs & cats allowed",
+    "brokerFee": "owner",
+    "concessions": {
+      "freeMonths": 1,
+      "leaseTermMonths": 13
+    },
+    "availableDate": "2026-04-01",
+    "source": "StreetEasy",
+    "sourceUrl": "https://www.google.com/search?q=site%3Astreeteasy.com+170+East+87th+Street+12B"
+  },
+  {
+    "id": 2,
+    "address": "200 East 79th Street",
+    "apt": "18A",
+    "lat": 40.7745,
+    "lng": -73.9575,
+    "rent": 16800,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2200,
+    "dom": 22,
+    "listed": "2026-02-21",
+    "doorman": true,
+    "petPolicy": "Cats only",
+    "brokerFee": "tenant",
+    "concessions": {
+      "freeMonths": 0,
+      "leaseTermMonths": 12
+    },
+    "availableDate": "2026-05-01",
+    "source": "Corcoran",
+    "sourceUrl": "https://www.google.com/search?q=site%3Acorcoran.com+200+East+79th+Street+18A"
+  },
+  {
+    "id": 3,
+    "address": "45 East 72nd Street",
+    "apt": "6C",
+    "lat": 40.7717,
+    "lng": -73.9643,
+    "rent": 13500,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1650,
+    "dom": 45,
+    "listed": "2026-01-29",
+    "doorman": false,
+    "petPolicy": "No pets",
+    "brokerFee": "owner",
+    "concessions": {
+      "freeMonths": 2,
+      "leaseTermMonths": 14
+    },
+    "availableDate": "2026-04-15",
+    "source": "Compass",
+    "sourceUrl": "https://www.google.com/search?q=site%3Acompass.com+45+East+72nd+Street+6C"
+  },
+  {
+    "id": 4,
+    "address": "300 East 93rd Street",
+    "apt": "PH-A",
+    "lat": 40.7826,
+    "lng": -73.9509,
+    "rent": 17500,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2600,
+    "dom": 3,
+    "listed": "2026-03-12",
+    "doorman": true,
+    "petPolicy": "Dogs & cats allowed (weight limit 50 lbs)",
+    "brokerFee": "owner",
+    "concessions": {
+      "freeMonths": 0,
+      "leaseTermMonths": 12
+    },
+    "availableDate": "2026-04-01",
+    "source": "Douglas Elliman",
+    "sourceUrl": "https://www.google.com/search?q=site%3Aelliman.com+300+East+93rd+Street+PH-A"
+  },
+  {
+    "id": 5,
+    "address": "160 East 84th Street",
+    "apt": "9D",
+    "lat": 40.7779,
+    "lng": -73.9567,
+    "rent": 14200,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1500,
+    "dom": 67,
+    "listed": "2026-01-07",
+    "doorman": true,
+    "petPolicy": "Case-by-case",
+    "brokerFee": "tenant",
+    "concessions": {
+      "freeMonths": 1,
+      "leaseTermMonths": 13
+    },
+    "availableDate": "2026-03-15",
+    "source": "StreetEasy",
+    "sourceUrl": "https://www.google.com/search?q=site%3Astreeteasy.com+160+East+84th+Street+9D"
+  }
+]
